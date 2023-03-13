@@ -1,0 +1,30 @@
+
+
+.all {
+
+
+    padding-top: 100px;
+    border-top: 50px;
+    margin-top: 50px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.all h1 {
+    font-weight: bold;
+    color: blueviolet;
+    border-color: black;
+    font-family: "Piazzolla", serif;
+    font-size: 41px;
+}
+
+button {
+    background-color: blueviolet;
+    border-color: #ffffff;
+    color: black;
+}
+
+.all button:hover {
+    background-color: black;
+    color: blueviolet;
+}

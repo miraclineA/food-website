@@ -1,0 +1,15 @@
+
+
+a {
+    text-align: center;
+    border-radius: 6px;
+    background-color: blueviolet;
+    color: black;
+    text-decoration: none;
+    padding: 5px 5px;
+}
+a:hover{
+    background-color: black;
+    color: blueviolet;
+    cursor: pointer;
+}

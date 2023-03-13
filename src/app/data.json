@@ -1,0 +1,89 @@
+{
+    "foodDetails": [
+      {
+        "id": 1,
+        "title": "Chicken Pizza",
+        "image": "https://b.zmtcdn.com/data/o2_assets/d0bd7c9405ac87f6aa65e31fe55800941632716575.png",
+        "cost": "350",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 2,
+        "title": "Burger",
+        "image": "https://b.zmtcdn.com/data/dish_images/ccb7dc2ba2b054419f805da7f05704471634886169.png",
+        "cost": "250",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 3,
+        "title": "Biriyani",
+        "image": "https://b.zmtcdn.com/data/dish_images/d19a31d42d5913ff129cafd7cec772f81639737697.png",
+        "cost": "300",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 4,
+        "title": "Panner",
+        "image": "https://b.zmtcdn.com/data/dish_images/e44c42ff4b60b025225c8691ef9735b11635781903.png",
+        "cost": "250",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 5,
+        "title": "Paratha",
+        "image": "https://b.zmtcdn.com/data/o2_assets/2b5a5b533473aada22015966f668e30e1633434990.png",
+        "cost": "150",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 6,
+        "title": "Chicken",
+        "image": "https://b.zmtcdn.com/data/dish_images/197987b7ebcd1ee08f8c25ea4e77e20f1634731334.png",
+        "cost": "350",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 7,
+        "title": "Chicken Shawarma",
+        "image": "https://www.recipetineats.com/wp-content/uploads/2022/02/Chicken-Shawarma-Wrap_2-SQ.jpg",
+        "cost": "150",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 8,
+        "title": "Chicken Lasagna",
+        "image": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Cajun-Chicken-Lasagna_EXPS_HSCBZ19_129791_E07_12_2b.jpg",
+        "cost": "600",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 9,
+        "title": "Gobi Manchurian",
+        "image": "https://media.vogue.in/wp-content/uploads/2020/11/Gobhi-Manchurian-recipe-chinese-starters-1920x1080.jpg",
+        "cost": "100",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 10,
+        "title": "Italian Shrimp Pasta",
+        "image": "https://rasamalaysia.com/wp-content/uploads/2019/05/italian-shrimp-pasta-thumb.jpg",
+        "cost": "550",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 11,
+        "title": "Pan Cake",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhEUe1AQS1_8tzKf7baTx7h8TVfVObueSvPg&usqp=CAU",
+        "cost": "300",
+        "description": "GOOD FOOD, GOOD LIFE"
+      },
+      {
+        "id": 12,
+        "title": "Fruit salad",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxfIPtUpXqx1OaBYhXo4uVld4sts3hZXW9xA&usqp=CAU",
+        "cost": "240",
+        "description": "GOOD FOOD, GOOD LIFE"
+      }
+    ]
+  
+  }

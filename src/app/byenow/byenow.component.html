@@ -1,0 +1,52 @@
+
+
+<div class="container  mt-5 mb-5">
+
+
+
+    <div class="row">
+
+        <a routerLink="../../menu" class="btn btn-sm btn-dark mb-3 "> Back </a>
+
+
+        <mat-card class="col-lg-6">
+
+
+            <mat-card-header>
+                <div mat-card-avatar class="example-header-image"></div>
+                <mat-card-title>{{cards.title}}</mat-card-title>
+            </mat-card-header>
+            <img mat-card-image src="{{cards.image}}">
+
+            <mat-card-content class="mt-4">
+                <b> cost </b>: {{cards.cost | currency:'INR'}} <br>
+                {{cards.description}} <br> <br>
+
+
+            </mat-card-content>
+
+        </mat-card>
+        <div class="col-lg-6">
+            <form>
+                <input type="text" class="form-control " placeholder="Enter Your Full Name" />
+                <input type="text" class="form-control mt-2" placeholder="Enter Your Mobile Number" />
+
+                <textarea class="form-control mt-2" placeholder="Enter Your Address"></textarea>
+                <button  class="btn btn-md btn-dark mt-3" (click)="placeOrder()">Place Order
+
+                </button>
+
+            </form>
+
+        </div>
+
+
+
+    </div>
+
+
+
+
+</div>
+
+<h1>Date</h1>
